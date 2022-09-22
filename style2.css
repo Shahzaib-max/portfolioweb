@@ -734,7 +734,8 @@ pakistan first locally assemble havel h8 roles of the assembly line sazegar engi
 }
     @media (max-width: 700px) {
       footer{
-        top: 124vh;
+        position:absolute;
+        bottom:0px;
       }
     }
 @media(max-width:600px){
