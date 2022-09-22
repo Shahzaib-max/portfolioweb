@@ -1,0 +1,739 @@
+.h {
+  display: none;
+}
+@media (max-width: 1513px) {
+  .h {
+    display: block;
+    width: 100vw;
+    color: white;
+    margin-left: 0px;
+    margin-top: -11px;
+  }
+}
+.b {
+  margin-left: 421px;
+}
+@media (max-width: 303px) {
+  .login-btn {
+    margin-right: 44vw;
+  }
+}
+/* .b{
+    margin-left: 0px;
+} */
+.login-btn {
+  left: 27vw;
+}
+@media (max-width: 910px) {
+  .b {
+    margin-left: 0px;
+  }
+}
+@media (max-width: 517px) {
+  .b {
+    margin-left: 46px;
+  }
+}
+@media (max-width: 1520px) {
+  #about {
+    display: flex;
+    flex-direction: column;
+  }
+}
+#a {
+  margin-top: -18px;
+}
+.abou {
+  margin-top: -700px;
+}
+
+@media (max-width: 476px) {
+  .b {
+    margin-left: 47px;
+  }
+}
+@media (max-width: 1519px) {
+  .about-img {
+    /* height: 56vh;
+            width: 48vw; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: 35vh;
+    width: 26vw;
+  }
+  .abou {
+    margin-top: -126px;
+    margin-left: 46vw;
+  }
+  #a {
+    /* margin-left: 23vw;
+        width: 57vw; */
+    margin-left: 21vw;
+    width: 64vw;
+  }
+}
+
+@media (max-width: 1266px) {
+  .abou {
+    margin-left: 45vw;
+  }
+}
+@media (max-width: 1129px) {
+  .about-img {
+    width: 30vw;
+  }
+}
+@media (max-width: 952px) {
+  .abou {
+    margin-left: 43vw;
+  }
+  .about-img {
+    width: 35vw;
+  }
+}
+@media (max-width: 1045px) {
+  .abou {
+    margin-left: 43vw;
+  }
+}
+@media (max-width: 683px) {
+  .about-img {
+    width: 52vw;
+  }
+  .abou {
+    margin-left: 40vw;
+  }
+}
+
+@media (max-width: 757px) {
+  #about {
+    height: 110vh;
+  }
+  .about-img {
+    width: 42vw;
+  }
+}
+
+@media (max-width: 605px) {
+  .i1 {
+    margin: 10px auto;
+    width: 83vw;
+  }
+  .i2 {
+    width: 83vw;
+  }
+  .email {
+    margin: 10px auto;
+    width: 83vw;
+  }
+  .text {
+    margin: 0 auto;
+    width: 83vw;
+    height: 260px;
+  }
+  .submit {
+    width: 84vw;
+    margin: 10px auto;
+  }
+}
+@media (max-width: 374px) {
+  footer {
+    font-size: 14px;
+  }
+}
+@media (max-width: 671px) {
+  .box1:hover {
+    width: 57vw;
+  }
+  .box2:hover {
+    width: 57vw;
+  }
+  .box3:hover {
+    width: 57vw;
+  }
+}
+@media (max-width: 458px) {
+  .box1:hover {
+    width: 70vw;
+  }
+  .box2:hover {
+    width: 70vw;
+  }
+  .box3:hover {
+    width: 70vw;
+  }
+}
+@media (max-width: 349px) {
+  .po {
+    margin-left: -22px;
+  }
+  /* .po:hover{
+                    margin-left: -16px;   
+                } */
+}
+@media (max-width: 1450px) {
+  .about-img {
+    height: 60vh;
+    width: 35vw;
+  }
+}
+@media (max-width: 1493px) {
+  #a {
+    margin-left: auto;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1523px) {
+  .about-img {
+    height: 76vh;
+  }
+}
+@media (max-width: 1521px) {
+  .about-img {
+    width: 47vw;
+  }
+}
+@media (max-width: 780px) {
+  .about-img {
+    width: 72vw;
+  }
+}
+@media (max-width: 1525px) {
+  .about-img {
+    height: 78vh;
+  }
+}
+@media (max-width: 500px) {
+  .about-img {
+    height: 107vh;
+    width: 89vw;
+  }
+  /* @media (max-width: 780px)
+                  .about-img { */
+}
+@media (max-width: 506px) {
+  #abo {
+    /* margin-top: 93px; */
+  }
+  #a {
+    /* overflow: hidden; */
+  }
+}
+
+@media (max-width: 519px) {
+  .abou {
+    margin-right: auto;
+  }
+  #abo {
+    margin-top: 131px;
+  }
+}
+
+@media (max-width: 1518px) {
+  #about {
+    height: 110vh;
+  }
+}
+
+@media (max-width: 519px) {
+  #abo {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 513px) {
+  .abou {
+    margin-left: 33vw;
+  }
+}
+@media (max-width: 273px) {
+  .abou {
+    margin-left: 24vw;
+  }
+  .po {
+    margin-left: -39px;
+  }
+}
+
+@media (max-width: 413px) {
+  #abo {
+    margin-top: 147px;
+  }
+}
+@media (max-width: 501px) {
+  #abo {
+    margin-top: 63px;
+  }
+}
+@media (max-width: 478px) {
+  #abo {
+    margin-top: 95px;
+  }
+}
+@media (max-width: 434px) {
+  #abo {
+    margin-top: 125px;
+  }
+}
+@media (max-width: 398px) {
+  #abo {
+    margin-top: 166px;
+  }
+}
+@media (max-width: 372px) {
+  #abo {
+    margin-top: 203px;
+  }
+}
+@media (max-width: 350px) {
+  #abo {
+    margin-top: 229px;
+  }
+}
+@media (max-width: 333px) {
+  #abo {
+    margin-top: 260px;
+  }
+}
+@media (max-width: 326px) {
+  #abo {
+    margin-top: 272px;
+  }
+}
+@media (max-width: 324px) {
+  #abo {
+    margin-top: 303px;
+  }
+}
+@media (max-width: 282px) {
+  #abo {
+    margin-top: 396px;
+  }
+}
+@media (max-width: 275px) {
+  #abo {
+    margin-top: 415px;
+  }
+}
+@media (max-width: 270px) {
+  #abo {
+    margin-top: 428px;
+  }
+}
+@media (max-width: 266px) {
+  #abo {
+    margin-top: 445px;
+  }
+}
+@media (max-width: 262px) {
+  #abo {
+    margin-top: 463px;
+  }
+}
+@media (max-width: 261px) {
+  #abo {
+    margin-top: 488px;
+  }
+}
+@media (max-width: 309px) {
+  #abo {
+    margin-top: 344px;
+  }
+}
+@media (max-width: 282px) {
+  #abo {
+    margin-top: 381px;
+  }
+}
+.login-btn {
+  background: brown;
+  color: white;
+  border: brown;
+  border-radius: 3px;
+  padding-bottom: 4px;
+  padding: 5px 7px;
+}
+.b {
+  background: brown;
+  color: white;
+  border: brown;
+  border-radius: 3px;
+  padding-bottom: 4px;
+  padding: 5px 7px;
+}
+.login-btn {
+  left: 22vw;
+}
+.b {
+  margin-left: 346px;
+}
+a {
+  border-radius: 4px;
+}
+
+@media (max-width: 781px) {
+  .b {
+    margin-right: 47vw;
+  }
+}
+@media (max-width: 521px) {
+  .b {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .b {
+    margin-left: 0px;
+  }
+}
+@media (max-width: 731px) {
+  .b {
+    margin-left: 0px;
+  }
+}
+@media (max-width: 405px) {
+  .b {
+    margin-right: 45vw;
+  }
+}
+@media (max-width: 985px) {
+  .login-btn {
+    margin-right: 49vw;
+  }
+}
+@media (max-width: 631px) {
+  .login-btn {
+    margin-right: 48vw;
+  }
+}
+@media (max-width: 700px) {
+  .login-btn {
+    margin-right: 48vw;
+  }
+}
+.green {
+  color: linear-gradient(black, white);
+}
+
+@media (max-width: 1514px) {
+  .none {
+    display: none;
+  }
+  .block {
+    display: block;
+  }
+}
+@media (max-width: 1514px) {
+  .b {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .login-btn {
+    margin-right: auto;
+    position: static;
+    margin-left: auto;
+  }
+}
+@media (max-width: 768px) {
+  .b {
+    margin-left: auto;
+  }
+}
+@media (max-width: 770px) {
+  .b {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 1519px) {
+  #abo {
+    margin-top: 118px;
+  }
+}
+@media (max-width: 413px) {
+  #abo {
+    margin-top: 157px;
+  }
+}
+@media (max-width: 502px) {
+  #a {
+    /* overflow: hidden; */
+  }
+  #about {
+    height: auto;
+  }
+  #abo {
+    margin-top: auto;
+  }
+  footer {
+    top: 197vh;
+  }
+}
+@media (max-width: 326px) {
+  footer {
+    top: 204vh;
+  }
+}
+@media (max-width: 324px) {
+  footer {
+    top: 205vh;
+  }
+}
+@media (max-width: 314px) {
+  footer {
+    top: 208vh;
+  }
+}
+@media (max-width: 309px) {
+  footer {
+    top: 213vh;
+  }
+}
+@media (max-width: 299px) {
+  footer {
+    top: 217vh;
+  }
+}
+@media (max-width: 282px) {
+  footer {
+    top: 222vh;
+  }
+}
+@media (max-width: 275px) {
+  footer {
+    top: 226vh;
+  }
+}
+@media (max-width: 270px) {
+  footer {
+    top: 229vh;
+  }
+}
+@media (max-width: 266px) {
+  footer {
+    top: 232vh;
+  }
+}
+@media (max-width: 262px) {
+  footer {
+    top: 235vh;
+  }
+}
+@media (max-width: 261px) {
+  footer {
+    top: 237vh;
+  }
+}
+@media (max-width: 255px) {
+  footer {
+    top: 243vh;
+  }
+}
+@media (max-width: 246px) {
+  footer {
+    top: 244vh;
+  }
+}
+@media (max-width: 243px) {
+  footer {
+    top: 249vh;
+  }
+}
+@media (max-width: 238px) {
+  footer {
+    top: 253vh;
+  }
+}
+@media (max-width: 230px) {
+  footer {
+    top: 256vh;
+  }
+}
+@media (max-width: 226px) {
+  footer {
+    top: 262vh;
+  }
+}
+@media (max-width: 264px) {
+  footer {
+    top: 264vh;
+  }
+}
+@media (max-width: 306px) {
+  .po {
+    margin-left: auto;
+    width: 82vw;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+  }
+}
+@media (max-width: 400px) {
+  .po {
+    margin-left: auto;
+    width: 82vw;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1517px) {
+  .abou {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 501px) {
+  .about-img {
+    height: auto;
+  }
+}
+@media (max-width: 1201px) {
+  .about-img {
+    /* width: auto; */
+  }
+}
+@media (max-width: 273px) {
+  .bo {
+    width: 84px;
+    height: 174px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 250px) {
+  .box3 {
+    height: auto;
+  }
+}
+@media (max-width: 421px) {
+  footer {
+    top: 115vh;
+  }
+}
+@media (max-width: 502px) {
+  footer {
+    top: 115vh;
+  }
+}
+@media (max-width: 502px) {
+  footer {
+    top: 165vh;
+  }
+}
+@media (max-width: 413px) {
+  footer {
+    top: ;
+  }
+}
+@media (max-width: 445px) {
+  footer {
+    top: 106vh;
+  }
+}
+@media (max-width: 502px) {
+  footer {
+    top: 105vh;
+  }
+}
+@media (max-width: 414px) {
+  footer {
+    top: 111vh;
+  }
+}
+@media (max-width: 372px) {
+  footer {
+    top: 116vh;
+  }
+}
+@media (max-width: 337px) {
+  footer {
+    top: 121vh;
+  }
+}
+@media (max-width: 325px) {
+  footer {
+    top: 125vh;
+  }
+}
+@media (max-width: 314px) {
+  footer {
+    top: 130vh;
+  }
+}
+@media (max-width: 309px) {
+  footer {
+    top: 134vh;
+  }
+}
+@media (max-width: 282px) {
+  footer {
+    top: 138vh;
+  }
+}
+@media (max-width: 270px) {
+  footer {
+    top: 143vh;
+  }
+}
+@media (max-width: 262px) {
+  footer {
+    top: 146vh;
+  }
+}
+
+@media (max-width: 260px) {
+  .box1 {
+    height: auto;
+  }
+  .box2 {
+    height: auto;
+  }
+  .box3 {
+    height: auto;
+  }
+}
+/* #about{
+  background-image: url('hhhhh.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+/*You are my best friend and you are a very very lucky because i have selected you get friendship with you this oppostunity dont miss you and your friend and we are trying to made other friend circle tomorrow all my word to manage because i am very hungry tea samosa chatni chaska briyani shawarma and khata aloa and lacha pratha and ande wala burger and ande wala amlet ami make tea and nasta for janab gul hassan qureshi, a former director of radio pakistan retired from 22 grade retired offices we are 5 members in this house somebody have wah salty chewra baley baley dal mong baley baley mix nimco catty chines cheese also remaining are to much help center in karachi and their privacy policy and other is cash on delivary order details are mentiioned in application we can track our ordere through order id on othre way we can contact we can able to contact with customer care if we have no responese we can go to google play store and reduce rating in reviews section 
+pakistan first locally assemble havel h8 roles of the assembly line sazegar enginear works limited (hewl, thursday, held a lining of assembly for the locally the company anouced the new prices of inte) soup na thou do wari fresh thi we wary shahzaib sandwich
+*/
+/* .h{
+  background-color: blue;
+  
+} */
+.i{
+  color: black;
+  text-decoration: none;
+}
+/* .box1:hover{
+  color: black; */
+  /* .i{
+    color: black;
+  } */
+  
+}
+.bb{
+  display: none;
+}
+
+@media (max-width: 502px) {
+  .bb{
+    display: block;
+  }
+}
+    @media (max-width: 465px) {
+      footer{
+        top: 124vh;
+      }
+    }
