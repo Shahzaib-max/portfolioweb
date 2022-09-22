@@ -481,10 +481,10 @@ hr {
     top: 127vh;
   }
 }
-/* footer{
+footer{
     position: relative;
     top: 98;
-} */
+}
 @media (max-width: 1023px) {
   .box1 {
     width: 36vw;
@@ -1273,6 +1273,5 @@ nav{
   margin-top: -11px;
 }
   footer{
-  top:125vh;
   
   }
